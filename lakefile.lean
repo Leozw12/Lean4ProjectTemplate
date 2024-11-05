@@ -1,7 +1,7 @@
 import Lake
 open Lake DSL
 
-package "LeanProject" where
+package "Lean4ProjectTemplate" where
   -- add package configuration options here
 
 require "leanprover-community" / "mathlib" from git

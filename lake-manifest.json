@@ -70,5 +70,5 @@
  "inputRev": "20c73142afa995ac9c8fb80a9bb585a55ca38308",
  "inherited": false,
  "configFile": "lakefile.lean"}],
- "name": "«lean4-example»",
+ "name": "«Lean4ProjectTemplate»",
  "lakeDir": ".lake"}
